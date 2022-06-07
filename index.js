@@ -98,10 +98,10 @@ console.log(isLoggedInAndSubscribed('LOGGED_IN', 'SUBSCRIBED'))
 console.log(isLoggedInAndSubscribed('LOGGED_IN', 'UNSUBSCRIBED'))
 console.log(isLoggedInAndSubscribed('LOGGED_OUT', 'SUBSCRIBED')) */
 
-function isLoggedInAndSubscribed (str1, str2) {
+/* function isLoggedInAndSubscribed (str1, str2) {
     return (str1 === 'LOGGED_IN' || str2 === 'SUBSCRIBED')
 }
 
 console.log(isLoggedInAndSubscribed('LOGGED_IN', 'SUBSCRIBED'))
 console.log(isLoggedInAndSubscribed('LOGGED_IN', 'UNSUBSCRIBED'))
-console.log(isLoggedInAndSubscribed('LOGGED_OUT', 'SUBSCRIBED'))
+console.log(isLoggedInAndSubscribed('LOGGED_OUT', 'SUBSCRIBED')) */
